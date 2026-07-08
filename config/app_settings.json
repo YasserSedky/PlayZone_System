@@ -1,0 +1,172 @@
+{
+    "app": {
+        "name": "نظام إدارة محل بلايستيشن",
+        "version": "1.0.0",
+        "author": "PS System Team",
+        "language": "ar",
+        "theme": "default",
+        "auto_save": true,
+        "auto_save_interval": 300,
+        "backup_enabled": true,
+        "backup_interval_hours": 24,
+        "backup_retention_days": 30
+    },
+    "ui": {
+        "window_width": 1200,
+        "window_height": 800,
+        "window_maximized": false,
+        "font_family": "Arial",
+        "font_size": 12,
+        "rtl_support": true,
+        "show_tooltips": true,
+        "show_status_bar": true,
+        "show_menu_bar": true,
+        "auto_hide_sidebar": false,
+        "sidebar_width": 250,
+        "theme_color": "#2E86AB",
+        "accent_color": "#A23B72"
+    },
+    "currency": {
+        "default_currency": "SAR",
+        "currency_symbol": "ر.س",
+        "decimal_places": 2,
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "show_currency_symbol": true,
+        "currency_position": "after"
+    },
+    "datetime": {
+        "date_format": "%d/%m/%Y",
+        "time_format": "%H:%M:%S",
+        "datetime_format": "%Y-%m-%d %H:%M:%S",
+        "timezone": "Africa/Cairo",
+        "24_hour_format": true,
+        "show_seconds": true
+    },
+    "devices": {
+        "default_session_time": 60,
+        "max_session_time": 480,
+        "min_session_time": 15,
+        "auto_close_sessions": true,
+        "session_warning_time": 5,
+        "default_pricing_type": "single",
+        "enable_multiplayer": true,
+        "max_players_per_device": 4
+    },
+    "inventory": {
+        "low_stock_threshold": 5,
+        "auto_reorder": false,
+        "reorder_quantity": 10,
+        "track_expiry_dates": false,
+        "expiry_warning_days": 7,
+        "barcode_enabled": false,
+        "auto_update_stock": true
+    },
+    "customers": {
+        "require_phone_verification": false,
+        "auto_create_customer": true,
+        "default_customer_balance": 0.0,
+        "max_customer_balance": 1000.0,
+        "customer_discount_enabled": false,
+        "default_discount_percentage": 0,
+        "loyalty_points_enabled": false,
+        "points_per_currency": 1
+    },
+    "reports": {
+        "default_report_period": "daily",
+        "auto_generate_reports": false,
+        "report_retention_days": 365,
+        "include_charts": true,
+        "chart_colors": [
+            "#2E86AB",
+            "#A23B72",
+            "#F18F01",
+            "#C73E1D",
+            "#6A994E"
+        ],
+        "export_formats": [
+            "PDF",
+            "Excel",
+            "CSV"
+        ],
+        "default_export_format": "PDF"
+    },
+    "printing": {
+        "printer_name": "",
+        "paper_size": "A4",
+        "orientation": "portrait",
+        "margins": {
+            "top": 20,
+            "bottom": 20,
+            "left": 20,
+            "right": 20
+        },
+        "font_size": 10,
+        "show_logo": true,
+        "logo_path": "",
+        "show_company_info": true,
+        "company_name": "محل بلايستيشن",
+        "company_address": "",
+        "company_phone": "",
+        "company_email": ""
+    },
+    "notifications": {
+        "enabled": true,
+        "sound_enabled": true,
+        "popup_enabled": true,
+        "email_notifications": false,
+        "sms_notifications": false,
+        "notification_duration": 5000,
+        "max_notifications": 100,
+        "auto_clear_notifications": true,
+        "clear_interval_hours": 24
+    },
+    "security": {
+        "require_admin_password": true,
+        "session_timeout_minutes": 30,
+        "max_login_attempts": 3,
+        "lockout_duration_minutes": 15,
+        "password_min_length": 8,
+        "require_strong_password": true,
+        "audit_log_enabled": true,
+        "audit_log_retention_days": 365,
+        "encrypt_sensitive_data": true
+    },
+    "backup": {
+        "enabled": true,
+        "auto_backup": true,
+        "backup_interval_hours": 24,
+        "backup_time": "02:00",
+        "backup_location": "backups/",
+        "retention_days": 30,
+        "compress_backups": true,
+        "encrypt_backups": false,
+        "backup_database": true,
+        "backup_files": true
+    },
+    "network": {
+        "enable_remote_access": false,
+        "server_port": 8080,
+        "max_connections": 10,
+        "connection_timeout": 30,
+        "enable_ssl": false,
+        "ssl_certificate": "",
+        "ssl_key": ""
+    },
+    "updates": {
+        "check_for_updates": true,
+        "auto_update": false,
+        "update_channel": "stable",
+        "last_update_check": null,
+        "update_server_url": ""
+    },
+    "development": {
+        "debug_mode": false,
+        "log_level": "INFO",
+        "log_file": "ps_system.log",
+        "max_log_size_mb": 10,
+        "log_retention_days": 30,
+        "enable_profiling": false,
+        "show_debug_info": false
+    }
+}

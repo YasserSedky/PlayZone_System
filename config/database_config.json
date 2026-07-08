@@ -1,0 +1,31 @@
+{
+    "database_type": "sqlite",
+    "sqlite": {
+        "database_path": "data/ps_system.db",
+        "backup_enabled": true,
+        "backup_interval_hours": 24,
+        "backup_retention_days": 30
+    },
+    "mysql": {
+        "host": "localhost",
+        "port": 3306,
+        "database": "ps_system",
+        "user": "root",
+        "password": "",
+        "charset": "utf8mb4",
+        "collation": "utf8mb4_unicode_ci",
+        "autocommit": true,
+        "connection_timeout": 60,
+        "backup_enabled": true,
+        "backup_interval_hours": 24,
+        "backup_retention_days": 30,
+        "pool_size": 10,
+        "max_overflow": 20,
+        "pool_timeout": 30,
+        "pool_recycle": 3600,
+        "echo": false,
+        "ssl_disabled": true,
+        "ssl_verify_cert": false,
+        "ssl_verify_identity": false
+    }
+}

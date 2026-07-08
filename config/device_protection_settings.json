@@ -1,0 +1,51 @@
+{
+  "device_protection": {
+    "enabled": true,
+    "description": "نظام حماية الجهاز - يمنع نقل البرنامج بين الأجهزة",
+    "settings": {
+      "fingerprint_file": "config/device_fingerprint.json",
+      "encryption_key": "PS_DEVICE_PROTECTION_2024",
+      "allow_device_transfer": false,
+      "mismatch_action": "block",
+      "log_security_events": true,
+      "backup_fingerprint": true,
+      "backup_location": "backups/device_fingerprints/"
+    },
+    "fingerprint_components": {
+      "machine_id": true,
+      "platform": true,
+      "processor": true,
+      "architecture": true,
+      "hostname": true,
+      "system_version": true,
+      "python_version": true,
+      "cpu_count": true,
+      "disk_serial": true,
+      "mac_address": true,
+      "bios_serial": true
+    },
+    "security_levels": {
+      "high": {
+        "description": "أعلى مستوى حماية - جميع المكونات مطلوبة",
+        "tolerance_percentage": 0,
+        "allow_partial_match": false
+      },
+      "medium": {
+        "description": "متوسط مستوى الحماية - بعض المكونات يمكن أن تختلف",
+        "tolerance_percentage": 20,
+        "allow_partial_match": true
+      },
+      "low": {
+        "description": "مستوى حماية منخفض - معظم المكونات يمكن أن تختلف",
+        "tolerance_percentage": 50,
+        "allow_partial_match": true
+      }
+    },
+    "messages": {
+      "first_run": "🎉 مرحباً بك في نظام إدارة محل بلايستيشن\n\nتم تسجيل هذا الجهاز بنجاح.\nيمكنك الآن استخدام البرنامج بشكل طبيعي.\n\nملاحظة: هذا البرنامج مربوط بهذا الجهاز ولا يمكن نقله.",
+      "device_transferred": "⚠️ تحذير: تم نقل البرنامج\n\nتم نقل البرنامج إلى جهاز جديد.\nيُنصح بالتواصل مع الدعم الفني للتأكد من صحة العملية.",
+      "device_blocked": "🚫 خطأ في التحقق من الجهاز\n\nتم نقل البرنامج إلى جهاز آخر!\nهذا البرنامج مربوط بجهاز معين ولا يمكن نقله.\n\nللاستفسار، يرجى التواصل مع فريق الدعم الفني.",
+      "protection_disabled": "ℹ️ معلومات\n\nنظام حماية الجهاز معطل.\nيمكن نقل البرنامج بحرية."
+    }
+  }
+}

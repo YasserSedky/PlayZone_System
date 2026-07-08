@@ -1,0 +1,19 @@
+{
+    "company": {
+        "name": "",
+        "address": "",
+        "phone": "",
+        "email": ""
+    },
+    "ui": {
+        "language": "العربية",
+        "currency": "جنيه مصري (ج.م)",
+        "date_format": "dd/mm/yyyy"
+    },
+    "backup": {
+        "auto_backup": false,
+        "frequency": "أسبوعياً",
+        "folder": "",
+        "keep_count": 10
+    }
+}
