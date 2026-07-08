@@ -1,0 +1,644 @@
+2025-10-05 13:12:44,736 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:12:44,736 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:12:44,739 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:12:44,750 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:12:44,779 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:12:44,833 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:12:44,833 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:12:44,835 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:12:44,836 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:12:44,837 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:12:44,837 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:12:44,858 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:12:44,858 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:12:45,346 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:12:49,244 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:12:49,245 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:12:49,314 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:12:49,488 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:12:49,959 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:12:50,216 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:12:50,217 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:12:50,247 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:12:50,363 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:12:50,724 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:12:58,290 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-05 13:13:10,759 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 13:13:10,759 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 13:13:10,860 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 13:24:13,208 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:24:13,208 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:24:13,209 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:24:13,223 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:24:13,250 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:24:13,255 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:24:13,256 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:24:13,256 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:24:13,257 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:24:13,258 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:24:13,258 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:24:13,272 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:24:13,272 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:24:13,676 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:24:16,703 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:24:16,704 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:24:16,743 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:24:16,862 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:24:17,292 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:24:17,539 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:24:17,539 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:24:17,567 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:24:17,675 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:24:18,051 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:24:28,728 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 13:24:28,729 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 13:24:28,810 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 13:30:23,467 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:30:23,467 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:30:23,468 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:30:23,475 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:30:23,529 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:30:23,537 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:30:23,539 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:30:23,539 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:30:23,541 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:30:23,541 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:30:23,542 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:30:23,557 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:30:23,557 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:30:23,817 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:30:27,586 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:30:27,586 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:30:27,629 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:30:27,773 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:30:28,263 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:30:28,527 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:30:28,553 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:30:28,553 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:30:28,591 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:30:28,781 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:30:29,162 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:30:29,479 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:31:09,646 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:31:09,647 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:31:09,647 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:31:09,657 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:31:09,694 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:31:09,701 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:31:09,702 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:31:09,702 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:31:09,703 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:31:09,704 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:31:09,704 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:31:09,721 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:31:09,722 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:31:09,978 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:31:16,065 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:31:16,250 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:31:17,021 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:31:20,742 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:31:20,772 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:31:20,890 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:31:21,594 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:31:23,186 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:31:32,834 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 13:31:32,835 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 13:31:32,943 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 13:34:49,584 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:34:49,585 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:34:49,585 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:34:49,591 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:34:49,623 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:34:49,630 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:34:49,631 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:34:49,631 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:34:49,633 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:34:49,634 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:34:49,634 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:34:49,650 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:34:49,651 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:34:49,877 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:34:55,869 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:34:56,007 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:34:56,746 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:34:59,416 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:34:59,452 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:34:59,564 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:35:00,189 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:35:02,004 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:45:29,126 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:45:29,127 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:45:29,127 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:45:29,142 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:45:29,175 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:45:29,183 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:45:29,184 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:45:29,184 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:45:29,185 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:45:29,186 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:45:29,186 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:45:29,199 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:45:29,199 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:45:29,417 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:45:34,775 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:45:34,920 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:45:35,556 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:45:37,659 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:45:37,693 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:45:37,808 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:45:38,445 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 13:45:39,678 - root - INFO - تم عرض لوحة التحكم مع نظام الورديات بنجاح
+2025-10-05 13:45:56,500 - models.shift_model - INFO - تم بدء وردية جديدة من القالب 19 للكاشير 17
+2025-10-05 13:46:22,472 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:46:22,473 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:46:22,474 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:46:22,490 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:46:22,520 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:46:22,525 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:46:22,525 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:46:22,525 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:46:22,526 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:46:22,527 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:46:22,528 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:46:22,542 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:46:22,542 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:46:22,760 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:46:26,113 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:46:26,114 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:46:26,156 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:46:26,273 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:46:26,602 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:46:26,921 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:46:26,922 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:46:26,952 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:46:27,078 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:46:27,412 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:46:38,731 - models.user_model - INFO - تم التحقق من كلمة مرور المدير بنجاح
+2025-10-05 13:50:23,701 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:50:23,703 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:50:23,703 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:50:23,710 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:50:23,743 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:50:23,750 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:50:23,750 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:50:23,751 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:50:23,752 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:50:23,753 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:50:23,753 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:50:23,769 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:50:23,769 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:50:24,145 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:50:27,303 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:50:27,304 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:50:27,368 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:50:27,549 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:50:28,127 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:50:28,441 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:50:28,441 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:50:28,480 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:50:28,640 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:50:29,032 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:53:55,809 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:53:55,810 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:53:55,810 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:53:55,816 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:53:55,845 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:53:55,850 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:53:55,850 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:53:55,851 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:53:55,852 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:53:55,852 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:53:55,853 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:53:55,866 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:53:55,866 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:53:56,064 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:53:59,327 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:53:59,327 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:53:59,375 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:53:59,511 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:53:59,882 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:54:00,160 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:54:00,161 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:54:00,189 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:54:00,309 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:54:00,656 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:59:46,539 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 13:59:46,540 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 13:59:46,540 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 13:59:46,548 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 13:59:46,578 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 13:59:46,583 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 13:59:46,584 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 13:59:46,584 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 13:59:46,585 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 13:59:46,586 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 13:59:46,586 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 13:59:46,603 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 13:59:46,603 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 13:59:46,823 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 13:59:49,565 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:59:49,566 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:59:49,698 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:59:49,825 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:59:50,189 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 13:59:50,457 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:59:50,458 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 13:59:50,489 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 13:59:50,618 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 13:59:50,982 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 14:00:41,428 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 18 للجلسة 121
+2025-10-05 14:00:41,429 - models.session_model - INFO - تم إنشاء جلسة جديدة: 121
+2025-10-05 14:00:41,542 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى busy
+2025-10-05 14:00:41,664 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
+2025-10-05 14:00:41,697 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-05 14:01:32,894 - models.pricing_segment_model - INFO - تم إنهاء جزء التسعيرة 18
+2025-10-05 14:01:32,895 - models.session_model - INFO - تم إنهاء الجزء النشط من التسعيرة 18 للجلسة 121
+2025-10-05 14:01:33,005 - models.session_model - INFO - تم إنهاء الجلسة 121
+2025-10-05 14:01:33,119 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى available
+2025-10-05 14:01:33,219 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - end
+2025-10-05 14:01:36,599 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 14:01:36,600 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 14:01:36,690 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:21:08,044 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:21:08,045 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:21:08,049 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:21:08,054 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:21:08,092 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:21:08,147 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:21:08,148 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:21:08,149 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:21:08,150 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:21:08,151 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:21:08,151 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:21:08,172 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:21:08,173 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:21:10,002 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:21:14,875 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:21:14,875 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:21:15,035 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:21:15,208 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:21:15,650 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:21:15,878 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:21:15,878 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:21:15,915 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:21:16,017 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:21:16,316 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:22:29,029 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:22:29,029 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:22:29,030 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:22:29,038 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:22:29,072 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:22:29,080 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:22:29,081 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:22:29,081 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:22:29,083 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:22:29,083 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:22:29,083 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:22:29,102 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:22:29,102 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:22:29,319 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:22:33,402 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:22:33,402 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:22:33,449 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:22:33,584 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:22:33,978 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:22:34,283 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:22:34,283 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:22:34,334 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:22:34,520 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:22:34,897 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:23:25,404 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 23:23:25,404 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 23:23:25,521 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:23:31,438 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 23:23:31,438 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 23:23:31,545 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:25:55,810 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:25:55,811 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:25:55,811 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:25:55,819 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:25:55,855 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:25:55,864 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:25:55,865 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:25:55,865 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:25:55,867 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:25:55,867 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:25:55,867 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:25:55,893 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:25:55,893 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:25:56,118 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:26:00,186 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:26:00,186 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:26:00,232 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:26:00,379 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:26:00,781 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:26:01,103 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:26:01,103 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:26:01,148 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:26:01,292 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:26:01,665 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:26:20,796 - models.shift_model - INFO - تم إنهاء الوردية 16
+2025-10-05 23:26:50,847 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 23:26:50,848 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 23:26:50,964 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:27:04,016 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:27:04,017 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:27:04,017 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:27:04,025 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:27:04,057 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:27:04,062 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:27:04,063 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:27:04,063 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:27:04,064 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:27:04,064 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:27:04,065 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:27:04,078 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:27:04,078 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:27:04,297 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:27:07,332 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:07,332 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:27:07,372 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:27:07,485 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:07,846 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:27:08,086 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:08,086 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:27:08,116 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:27:08,208 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:08,671 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:27:26,904 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 23:27:26,904 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 23:27:26,985 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:27:29,096 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:27:29,097 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:27:29,097 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:27:29,103 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:27:29,134 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:27:29,139 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:27:29,140 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:27:29,140 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:27:29,141 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:27:29,142 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:27:29,142 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:27:29,156 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:27:29,156 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:27:29,349 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:27:36,192 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:27:36,297 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:36,808 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:27:36,901 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:27:37,486 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:28:33,492 - models.shift_model - INFO - تم إنهاء الوردية 17
+2025-10-05 23:28:38,819 - models.shift_model - INFO - تم تفريغ بيانات العرض للكاشير 12
+2025-10-05 23:28:38,937 - models.shift_model - INFO - تم إنشاء وردية جديدة للكاشير 12
+2025-10-05 23:28:38,937 - controllers.shift_controller - INFO - تم بدء وردية جديدة للكاشير 12 مع تفريغ البيانات
+2025-10-05 23:33:38,389 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:33:38,390 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:33:38,390 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:33:38,400 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:33:38,436 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:33:38,446 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:33:38,447 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:33:38,447 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:33:38,450 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:33:38,450 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:33:38,451 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:33:38,471 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:33:38,471 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:33:38,509 - root - ERROR - خطأ في عرض نافذة تسجيل الدخول: expected 'except' or 'finally' block (dashboard.py, line 345)
+2025-10-05 23:35:06,945 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:35:06,945 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:35:06,945 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:35:06,951 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:35:06,986 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:35:06,996 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:35:06,997 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:35:06,997 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:35:06,999 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:35:07,001 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:35:07,001 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:35:07,022 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:35:07,023 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:35:07,240 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:35:10,960 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:10,960 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:35:11,032 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:35:11,175 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:11,706 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:35:12,032 - views.cashier_management - ERROR - خطأ في تحميل الكاشيرات: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:12,033 - utils.notifications - ERROR - Error: خطأ في تحميل الكاشيرات
+2025-10-05 23:35:12,079 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:35:12,242 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:12,674 - utils.notifications - INFO - Success: تم تحديث قائمة النسخ الاحتياطية - 2 نسخة متاحة
+2025-10-05 23:35:19,648 - utils.session_manager - INFO - بدء إيقاف جميع الجلسات النشطة...
+2025-10-05 23:35:19,649 - utils.session_manager - INFO - لا توجد جلسات نشطة لإيقافها
+2025-10-05 23:35:19,805 - database - INFO - تم إغلاق الاتصال بقاعدة البيانات
+2025-10-05 23:35:35,941 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:35:35,941 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:35:35,942 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:35:35,950 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:35:35,980 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:35:35,985 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:35:35,985 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:35:35,985 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:35:35,986 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:35:35,987 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:35:35,987 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:35:36,003 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:35:36,003 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:35:36,250 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:35:45,237 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:35:45,340 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:45,894 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:35:45,987 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:35:46,591 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:36:27,269 - models.expense_model - INFO - تم إنشاء مصروف جديد: عصير - 10.0 جنيه
+2025-10-05 23:36:27,269 - utils.notifications - INFO - Success: تم إضافة المصروف بنجاح: عصير - 10.0 جنيه
+2025-10-05 23:36:41,057 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 19 للجلسة 122
+2025-10-05 23:36:41,057 - models.session_model - INFO - تم إنشاء جلسة جديدة: 122
+2025-10-05 23:36:41,173 - models.device_model - INFO - تم تحديث حالة الجهاز 22 إلى busy
+2025-10-05 23:36:41,268 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
+2025-10-05 23:36:41,286 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-05 23:36:50,346 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 20 للجلسة 123
+2025-10-05 23:36:50,347 - models.session_model - INFO - تم إنشاء جلسة جديدة: 123
+2025-10-05 23:36:50,441 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى busy
+2025-10-05 23:36:50,535 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
+2025-10-05 23:36:57,880 - models.session_model - INFO - تم إضافة منتج للجلسة 122: 41 x 1
+2025-10-05 23:36:57,973 - models.product_model - INFO - تم تحديث المنتج 41
+2025-10-05 23:36:58,058 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - add_product
+2025-10-05 23:37:11,591 - models.pricing_segment_model - INFO - تم إنهاء جزء التسعيرة 19
+2025-10-05 23:37:11,681 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 21 للجلسة 122
+2025-10-05 23:37:11,769 - models.session_model - INFO - تم تحديث الجلسة 122: pricing_type = ?, session_price = ?, updated_at = ?
+2025-10-05 23:37:11,770 - models.session_model - INFO - تم تغيير نوع التسعيرة للجلسة 122 من single إلى multi
+2025-10-05 23:37:11,859 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - change_pricing
+2025-10-05 23:37:19,636 - models.payment_model - INFO - تم إنشاء الفاتورة 82 من الجلسة 122
+2025-10-05 23:37:19,747 - models.payment_model - INFO - تم نسخ 1 منتج من الجلسة 122 إلى الفاتورة 82
+2025-10-05 23:37:19,749 - models.payment_model - INFO - تم إنهاء الجلسة 122
+2025-10-05 23:37:19,749 - models.payment_model - INFO - تم تحديث حالة الجهاز 22 إلى متاح
+2025-10-05 23:37:19,855 - models.payment_model - INFO - تم إنهاء الجلسة 122 بنجاح - الفاتورة 82
+2025-10-05 23:37:52,716 - models.shift_model - INFO - تم إنهاء الوردية 24
+2025-10-05 23:37:59,339 - models.shift_model - INFO - تم تفريغ بيانات العرض للكاشير 12
+2025-10-05 23:37:59,450 - models.shift_model - INFO - تم إنشاء وردية جديدة للكاشير 12
+2025-10-05 23:37:59,450 - controllers.shift_controller - INFO - تم بدء وردية جديدة للكاشير 12 مع تفريغ البيانات
+2025-10-05 23:38:10,817 - models.shift_model - INFO - تم إنهاء الوردية 27
+2025-10-05 23:39:51,920 - models.shift_model - INFO - تم تفريغ بيانات العرض للكاشير 12
+2025-10-05 23:39:52,302 - models.shift_model - INFO - تم إنشاء وردية جديدة للكاشير 12
+2025-10-05 23:39:52,302 - controllers.shift_controller - INFO - تم بدء وردية جديدة للكاشير 12 مع تفريغ البيانات
+2025-10-05 23:41:55,958 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:41:55,958 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:41:55,959 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:41:55,965 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:41:55,996 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:41:56,001 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:41:56,002 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:41:56,002 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:41:56,003 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:41:56,003 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:41:56,004 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:41:56,017 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:41:56,017 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:41:56,223 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:42:07,644 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى busy
+2025-10-05 23:42:07,644 - models.device_model - INFO - تم استرداد جلسة نشطة: 123 للجهاز 26
+2025-10-05 23:42:07,648 - models.device_model - INFO - تم استرداد حالة الأجهزة: 1 جلسة (نشطة ومتوقفة)
+2025-10-05 23:42:07,764 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:42:08,477 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى busy
+2025-10-05 23:42:08,478 - models.device_model - INFO - تم استرداد جلسة نشطة: 123 للجهاز 26
+2025-10-05 23:42:08,483 - models.device_model - INFO - تم استرداد حالة الأجهزة: 1 جلسة (نشطة ومتوقفة)
+2025-10-05 23:42:08,579 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:42:09,319 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:42:19,927 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-05 23:42:24,101 - models.session_model - INFO - تم إضافة منتج للجلسة 123: 46 x 1
+2025-10-05 23:42:24,205 - models.product_model - INFO - تم تحديث المنتج 46
+2025-10-05 23:42:24,301 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - add_product
+2025-10-05 23:42:32,530 - models.payment_model - INFO - تم إنشاء الفاتورة 83 من الجلسة 123
+2025-10-05 23:42:32,634 - models.payment_model - INFO - تم نسخ 1 منتج من الجلسة 123 إلى الفاتورة 83
+2025-10-05 23:42:32,635 - models.payment_model - INFO - تم إنهاء الجلسة 123
+2025-10-05 23:42:32,643 - models.payment_model - INFO - تم تحديث حالة الجهاز 26 إلى متاح
+2025-10-05 23:42:32,730 - models.payment_model - INFO - تم إنهاء الجلسة 123 بنجاح - الفاتورة 83
+2025-10-05 23:45:27,199 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:45:27,199 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:45:27,200 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:45:27,207 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:45:27,239 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:45:27,244 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:45:27,245 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:45:27,245 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:45:27,246 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:45:27,247 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:45:27,247 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:45:27,262 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:45:27,262 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:45:27,471 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:45:33,652 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:45:33,753 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:45:34,319 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:45:34,405 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:45:35,014 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:46:03,192 - models.expense_model - INFO - تم إنشاء مصروف جديد: بيبسي - 15.0 جنيه
+2025-10-05 23:46:03,193 - utils.notifications - INFO - Success: تم إضافة المصروف بنجاح: بيبسي - 15.0 جنيه
+2025-10-05 23:46:09,971 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 22 للجلسة 124
+2025-10-05 23:46:09,971 - models.session_model - INFO - تم إنشاء جلسة جديدة: 124
+2025-10-05 23:46:10,064 - models.device_model - INFO - تم تحديث حالة الجهاز 22 إلى busy
+2025-10-05 23:46:10,164 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
+2025-10-05 23:46:10,169 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-05 23:46:17,248 - models.session_model - INFO - تم إضافة منتج للجلسة 124: 43 x 1
+2025-10-05 23:46:17,342 - models.product_model - INFO - تم تحديث المنتج 43
+2025-10-05 23:46:17,452 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - add_product
+2025-10-05 23:46:24,109 - models.payment_model - INFO - تم إنشاء الفاتورة 86 من الجلسة 124
+2025-10-05 23:46:24,216 - models.payment_model - INFO - تم نسخ 1 منتج من الجلسة 124 إلى الفاتورة 86
+2025-10-05 23:46:24,217 - models.payment_model - INFO - تم إنهاء الجلسة 124
+2025-10-05 23:46:24,218 - models.payment_model - INFO - تم تحديث حالة الجهاز 22 إلى متاح
+2025-10-05 23:46:24,311 - models.payment_model - INFO - تم إنهاء الجلسة 124 بنجاح - الفاتورة 86
+2025-10-05 23:47:48,976 - models.customer_model - INFO - تم إنشاء عميل جديد: حمزة (01002003000)
+2025-10-05 23:47:49,066 - models.customer_transaction_invoice_model - INFO - تم إنشاء فاتورة معاملة العميل 87: إنشاء عميل جديد
+2025-10-05 23:47:49,067 - models.customer_transaction_invoice_model - WARNING - فشل في إضافة المنتج مع product_name، جاري المحاولة بدونها: table invoice_items has no column named product_name
+2025-10-05 23:47:49,170 - models.customer_transaction_invoice_model - INFO - تم إضافة منتج المعاملة للفاتورة 87 (بدون اسم المنتج)
+2025-10-05 23:47:49,170 - utils.notifications - INFO - Success: تم إضافة العميل حمزة بنجاح
+2025-10-05 23:47:49,188 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:47:55,686 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:47:55,846 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:47:55,991 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:52:20,952 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:52:20,953 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:52:20,953 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:52:20,962 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:52:20,999 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:52:21,005 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:52:21,005 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:52:21,005 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:52:21,006 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:52:21,007 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:52:21,007 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:52:21,021 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:52:21,021 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:52:21,240 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:52:27,424 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:52:27,574 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:52:28,138 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:52:28,241 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:52:28,890 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:53:01,882 - models.customer_model - ERROR - خطأ في تحديث رصيد العميل: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+2025-10-05 23:53:01,883 - utils.notifications - ERROR - Error: فشل في شحن الرصيد
+2025-10-05 23:53:05,389 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:05,839 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:06,194 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:06,432 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:06,606 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:09,676 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:09,892 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:10,060 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:10,290 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:10,628 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:10,789 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:10,946 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:11,105 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:26,456 - models.customer_model - ERROR - خطأ في تحديث رصيد العميل: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+2025-10-05 23:53:26,456 - utils.notifications - ERROR - Error: فشل في شحن الرصيد
+2025-10-05 23:53:27,816 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,146 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,293 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,447 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,594 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,754 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:53:28,944 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:54:12,757 - models.customer_model - INFO - تم إنشاء عميل جديد: تجربة (01007009000)
+2025-10-05 23:54:12,856 - models.customer_transaction_invoice_model - INFO - تم إنشاء فاتورة معاملة العميل 94: إنشاء عميل جديد
+2025-10-05 23:54:12,857 - models.customer_transaction_invoice_model - WARNING - فشل في إضافة المنتج مع product_name، جاري المحاولة بدونها: table invoice_items has no column named product_name
+2025-10-05 23:54:12,972 - models.customer_transaction_invoice_model - INFO - تم إضافة منتج المعاملة للفاتورة 94 (بدون اسم المنتج)
+2025-10-05 23:54:12,973 - utils.notifications - INFO - Success: تم إضافة العميل تجربة بنجاح
+2025-10-05 23:54:13,007 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:57:37,207 - config - INFO - تم تحميل إعدادات التطبيق من: config/app_settings.json
+2025-10-05 23:57:37,208 - __main__ - INFO - تم إعداد نظام السجلات بنجاح
+2025-10-05 23:57:37,208 - __main__ - INFO - بدء تشغيل نظام إدارة محل بلايستيشن
+2025-10-05 23:57:37,215 - database - INFO - تم الاتصال بقاعدة البيانات SQLite بنجاح: data/ps_system.db
+2025-10-05 23:57:37,246 - root - ERROR - خطأ في إعداد التطبيق: name 'get_app_config' is not defined
+2025-10-05 23:57:37,252 - database - INFO - تم إنشاء جميع جداول قاعدة البيانات بنجاح
+2025-10-05 23:57:37,252 - database - INFO - البيانات التجريبية موجودة بالفعل
+2025-10-05 23:57:37,252 - database - INFO - بدء تحديث هيكل قاعدة البيانات...
+2025-10-05 23:57:37,253 - database - INFO - تم تحديث حالة الأجهزة من 'occupied' إلى 'busy'
+2025-10-05 23:57:37,254 - database - INFO - تم تحديث هيكل قاعدة البيانات بنجاح
+2025-10-05 23:57:37,254 - __main__ - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-10-05 23:57:37,269 - utils.session_manager - INFO - بدء استئناف الجلسات الموقوفة...
+2025-10-05 23:57:37,269 - utils.session_manager - INFO - لا توجد جلسات موقوفة للاستئناف
+2025-10-05 23:57:37,491 - root - INFO - تم عرض نافذة تسجيل الدخول بنجاح
+2025-10-05 23:57:46,444 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:57:46,588 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:57:47,124 - models.device_model - INFO - تم استرداد حالة الأجهزة: 0 جلسة (نشطة ومتوقفة)
+2025-10-05 23:57:47,225 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:57:47,805 - utils.notifications - ERROR - Error: خطأ في تحديث البيانات: ليس لديك صلاحية لعرض التقارير
+2025-10-05 23:58:08,310 - models.customer_model - ERROR - خطأ في تحديث رصيد العميل: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+2025-10-05 23:58:08,311 - utils.notifications - ERROR - Error: فشل في شحن الرصيد
+2025-10-05 23:58:10,575 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:58:11,009 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:58:11,170 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:58:11,345 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-05 23:58:11,533 - utils.notifications - ERROR - Error: خطأ في تحميل العملاء: Internal C++ object (PySide6.QtWidgets.QLabel) already deleted.
+2025-10-06 00:00:01,957 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 23 للجلسة 125
+2025-10-06 00:00:01,958 - models.session_model - INFO - تم إنشاء جلسة جديدة: 125
+2025-10-06 00:00:02,051 - models.device_model - INFO - تم تحديث حالة الجهاز 22 إلى busy
+2025-10-06 00:00:02,161 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
+2025-10-06 00:00:02,166 - utils.settings_manager - INFO - تم تحميل الإعدادات بنجاح
+2025-10-06 00:00:04,834 - models.pricing_segment_model - INFO - تم إنشاء جزء تسعيرة جديد: 24 للجلسة 126
+2025-10-06 00:00:04,835 - models.session_model - INFO - تم إنشاء جلسة جديدة: 126
+2025-10-06 00:00:04,929 - models.device_model - INFO - تم تحديث حالة الجهاز 26 إلى busy
+2025-10-06 00:00:05,038 - models.audit_log_model - INFO - تم إنشاء سجل تدقيق: session - create
